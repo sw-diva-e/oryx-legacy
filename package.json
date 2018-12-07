@@ -20,7 +20,7 @@
   "dependencies": {
     "colors": "~1.1.2",
     "globby": "~6.1.0",
-    "moment": "^2.22.2"
+    "moment": "~2.22.2"
   },
   "peerDependencies": {
     "webpack": ">=2.0.0"
