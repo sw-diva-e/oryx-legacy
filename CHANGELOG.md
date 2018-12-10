@@ -5,6 +5,7 @@ Released on 10.12.2018
 
 - update dependencies
     - moment 2.18.1 > 2.22.2
+- remove yarn.lock
 
 ### 1.2.0
 Released on 20.04.2018
