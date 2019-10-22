@@ -1,5 +1,10 @@
 # Changelog
 
+### 1.4.0
+Released on 22.10.2019
+
+- Changed globby to async mode.
+
 ### 1.3.0
 Released on 10.12.2018
 
